@@ -1,4 +1,4 @@
-# Instagram Profile Analysis 📊
+**# Instagram Profile Analysis **
 
 A Python-based data analysis project that reads Instagram profile information from a text file, processes the data, and extracts useful insights about Instagram profiles.
 
